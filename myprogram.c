@@ -3,5 +3,6 @@
 void main
 {
 printf("testing");
+printf("testing2");
 getch();
 }
